@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "COSMOS_DB_ENDPOINT": "https://<numele-contului-tau>.documents.azure.com:443/",
+    "COSMOS_DB_KEY": "<primary-key-din-portal>",
+    "COSMOS_DB_DATABASE": "TodoAppDB",
+    "COSMOS_DB_CONTAINER": "Items"
+  },
+  "Host": {
+    "CORS": "*"
+  }
+}

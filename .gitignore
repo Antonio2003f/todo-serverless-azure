@@ -1,0 +1,17 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Azure Functions
+api/local.settings.json
+bin/
+obj/
+.python_packages/
+
+# Azure Static Web Apps CLI
+.swa/
+
+# OS / editor
+.DS_Store
+.vscode/
+*.log
